@@ -13,8 +13,11 @@ pip install -r requirements.txt
 python manage.py migrate
 
 ### Фронтенд:
+
 cd frontend
+
 npm install
+
 npm run build
 
 ### Старт проекта в project:
