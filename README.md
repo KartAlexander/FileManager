@@ -1,5 +1,7 @@
 ## Установка и запуск проекта
 
+git clone https://github.com/KartAlexander/FileManager.git
+
 ### Бэкенд:
 
 python -m venv venv
